@@ -65,8 +65,12 @@ p {
 }
 
 footer { 
-    position: absolute;
-    bottom: 0;
-    text-align: right;
-    right: 165;
+    bottom: -110px;
+    background-color: #f2f2f2;
+    border: 1px solid #e6e6e6;
+	position: relative;
+}
+
+.right1,.right2 {
+	float: right;
 }
